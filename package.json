@@ -1,22 +1,23 @@
 {
-  "name": "OpenShift-Sample-App",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "name": "MeteorShift-Sample-App",
+  "version": "0.0.1",
+  "description": "Meteor.js on OpenShift",
   "keywords": [
     "OpenShift",
-    "Node.js",
+    "Meteor.js",
     "application",
-    "openshift"
+    "openshift",
+    "meteorshift"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Michael C. Hogan",
+    "email": "mhogan@alumni.usc.edu",
+    "url": "http://www.mchogan.com/"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "http://meteorshift-mch82.rhcloud.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/mchogan/meteorshift"
   },
 
   "engines": {
