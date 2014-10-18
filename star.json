@@ -1,0 +1,26 @@
+{
+  "format": "site-archive-pre1",
+  "builtBy": "Meteor METEOR@0.9.3.1",
+  "programs": [
+    {
+      "name": "web.browser",
+      "arch": "web.browser",
+      "path": "programs/web.browser/program.json",
+      "cordovaDependencies": {}
+    },
+    {
+      "name": "server",
+      "arch": "os",
+      "path": "programs/server/start.sh",
+      "cordovaDependencies": {}
+    },
+    {
+      "name": "ctl",
+      "arch": "os",
+      "path": "programs/ctl/start.sh",
+      "cordovaDependencies": {}
+    }
+  ],
+  "control": "ctl",
+  "meteorRelease": "METEOR@0.9.3.1"
+}
